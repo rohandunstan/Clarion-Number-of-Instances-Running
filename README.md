@@ -18,4 +18,3 @@ The article is available on icetips at https://www.icetips.com/showarticle.php?a
 
 Jens' code could be useful in an Appbroker, Ip Server or Terminal Services based app. 
 
-rohan@etouchos.com
